@@ -1,0 +1,51 @@
+.case-detail-section {
+  padding: 20px;
+  height: 100%;
+  background: #fff;
+}
+
+.progress-header {
+  font-size: 20px;
+  color: #262626;
+}
+
+.progress-content {
+  margin: 42px;
+}
+
+.case-detail-file {
+  padding: 12px;
+  height: 100%;
+  background: #fff;
+}
+
+.case-start-title {
+  font-size: 16px;
+  font-weight: 500;
+  color: #262626;
+}
+
+.page-main-content .add-party-button {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.case-page-header-footer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.layout-content .page-header .ant-page-header-heading {
+  margin-top: 2px;
+}
+
+.layout-content .ant-page-header-footer {
+  margin-top: 11px;
+}
+
+.case-page-header-footer .ant-tabs-tab {
+  font-size: 14px !important;
+  font-weight: 500;
+  color: #000;
+}

@@ -1,0 +1,107 @@
+.App {
+  height: 100vh;
+  background-color: #E8E8E8;
+}
+
+.App .ant-layout {
+  background-color: #E8E8E8;
+}
+
+.page-main-content {
+  padding: 24px;
+  background: #fff;
+  box-shadow: 0 2px 8px rgba(102, 102, 102, 0.1);
+  border-radius: 2px;
+}
+
+
+.table-controls {
+  display: flex;
+  margin-bottom: 16px;
+}
+
+.table-controls-space {
+  flex-grow: 1;
+}
+
+.table-controls-between {
+  margin: 0 8px;
+}
+
+.controls-search-box {
+  max-width: 256px;
+}
+
+.select-file-header {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.select-file-header-btn {
+  margin-left: 16px;
+  background: #f5f5f5;
+}
+
+.select-file-body {
+  margin-top: 42px;
+}
+
+.select-file-body .file-selector {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.select-file-body .file-selector .ant-upload {
+  width: 308px;
+  height: 146px;
+}
+
+.ant-upload-text {
+  margin-top: 20px;
+  font-size: 16px;
+}
+
+.file-upload {
+  width: 560px;
+  height: 100%;
+  max-height: 743px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid #d9d9d9;
+  border-radius: 3px;
+}
+
+.file-upload-body {
+  width: 419px;
+  height: 168px;
+}
+
+.file-upload-header {
+  font-size: 14px;
+  color: #000;
+  margin-top: 72px;
+  margin-bottom: 20px;
+}
+
+.upload-file-drag-icon {
+  font-size: 27px;
+}
+
+.upload-file-text {
+  font-size: 16px;
+  color: #000;
+}
+
+.upload-file-hint {
+  font-size: 14px;
+  color: #0446ff;
+}
+
+.page-title {
+  font-size: 16px;
+  font-weight: 500;
+  color: #262626;
+  margin-bottom: 12px;
+}

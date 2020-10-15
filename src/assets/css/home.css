@@ -1,0 +1,44 @@
+.home-recommended {
+  padding: 20px 44px;
+  min-height: 200px;
+  box-shadow: 0 2px 8px rgba(102, 102, 102, 0.1);
+  border-radius: 2px;
+  background: #fff;
+  margin-bottom: 10px;
+}
+
+.recommended-title {
+  font-weight: bold;
+  font-size: 20px;
+  color: #262626;
+}
+
+.recommended-content {
+  margin-top: 22px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.single-container {
+  max-width: 230px;
+  min-height: 108px;
+}
+
+.single-container-header {
+  height: 35px;
+  display: flex;
+  align-items: center;
+  font-size: 16px;
+  font-weight: bold;
+  color: #262626;
+}
+
+.single-container-description {
+  margin-top: 5px;
+  font-size: 12px;
+  color: #000;
+}
+
+.single-container-button {
+  margin-top: 10px;
+}

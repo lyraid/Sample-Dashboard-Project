@@ -1,0 +1,14 @@
+.layout-content .profile-layout {
+  min-height: 803px;
+}
+
+.profile-sidebar-menu {
+  min-height: 650px;
+  border-right: 1px solid #e6e6e6;
+}
+
+.profile-page-content {
+  padding: 24px;
+  background: #fff;
+  height: 100%;
+}
